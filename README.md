@@ -5,4 +5,4 @@ CC Test - K17
 
 ### Now we're using a real webhook.
 
-#### Now we're storing the data from the webhook into a table with all the data
+#### Now we're storing the data from the webhook into a table with all the data - WTH?
